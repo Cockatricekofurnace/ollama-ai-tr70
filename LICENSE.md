@@ -1,4 +1,4 @@
-# 
+# Officiel Ollama plugins. Avec tests automatisés et raisonnement automatisé — optimisé pour des performances et une efficacité maximales.
 
 
 
